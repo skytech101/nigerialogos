@@ -1137,4 +1137,10 @@
 			"Financial Services"
 		]
 	}
+ {
+	"title": "Skytechng Integrated Services",
+  "filename": "skytechng_integrated_services",
+  "url": "https://www.skytechng.com/",
+	"category": ["ICT", "Software", "Web Host", "Domain Registrar"]
+}
 ]
